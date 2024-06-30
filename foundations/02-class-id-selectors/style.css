@@ -1,0 +1,19 @@
+.base {
+    background-color: #f08080;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#num1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
