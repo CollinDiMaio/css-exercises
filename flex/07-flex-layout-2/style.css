@@ -60,7 +60,7 @@ a {
 
 .deck {
   display: flex;
-  justify-content: start;
+  justify-content: space-evenly;
   flex-direction: row;
   flex-wrap: wrap;
   gap: 10px 10px;
@@ -72,5 +72,5 @@ a {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 8px;
-  flex: 0 1 33%;
+  flex: 1 1 30%;
 }
